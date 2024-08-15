@@ -7,13 +7,13 @@ app = Flask(__name__)
 JOBS = [
     {
       'id': 1,
-      'title': 'Data Analyst',
+      'title': 'Data Scientist',
       'location': 'Karachi, Pakistan',
-      'salary': 'Rs. 10,00,000'
+      'salary': 'Rs. 30,00,000'
     },
     {
       'id': 2,
-      'title': 'Data Scientist',
+      'title': 'Senior BI developer',
       'location': 'Karachi, Pakistan',
       'salary': 'Rs. 20,00,000'
     },
